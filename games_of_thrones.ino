@@ -1,5 +1,5 @@
 
-#include "pitches.h" //include the zip file of library pictches from my github repository
+#include "pitches.h" 
 
 #define BUZZER_PIN 7
 
